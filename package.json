@@ -1,0 +1,32 @@
+{
+  "name": "vue-webpack-example",
+  "version": "0.0.1",
+  "description": "vue-webpack-example",
+  "main": "src/index.ts",
+  "keywords": [   
+    "vue",
+    "webpack"
+  ],
+  "author": "Markus Lansink",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/es6-shim": "^0.31.35",
+    "@types/node": "^8.0.46",
+    "browser-sync": "^2.18.13",   
+    "gulp-sass": "^3.1.0",
+    "gulp-sourcemaps": "^2.6.1",
+    "gulp-typescript": "^3.2.2",
+    "source-map-loader": "^0.2.2",
+    "ts-loader": "^3.0.5",
+    "typescript": "^2.5.3",    
+    "webpack": "^3.8.1",
+    "webpack-stream": "^4.0.0",
+    "vue-loader": "^13.0.5",
+    "vue-router": "^3.0.1",
+    "vue-template-compiler": "^2.4.4",
+    "vuex": "^3.0.1"
+  },
+  "dependencies": {   
+    "vue": "^2.5.13"
+  }
+}
